@@ -1,0 +1,29 @@
+{
+  "name": "supported-rtp-capabilities",
+  "version": "0.0.0",
+  "description": "Supported RTP capabilities extracted from Mediasoup",
+  "main": "lib/supportedRtpCapabilities.js",
+  "scripts": {
+    "build": "tsc",
+    "prepare": "npm run build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mafalda-SFU/supported-RTP-capabilities.git"
+  },
+  "keywords": [
+    "Mediasoup",
+    "RTP",
+    "SFU"
+  ],
+  "author": "Jesús Leganés-Combarro 'piranna' <piranna@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mafalda-SFU/supported-RTP-capabilities/issues"
+  },
+  "homepage": "https://github.com/Mafalda-SFU/supported-RTP-capabilities#readme",
+  "devDependencies": {
+    "typescript": "^4.3.5"
+  }
+}
