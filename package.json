@@ -1,5 +1,5 @@
 {
-  "name": "supported-rtp-capabilities",
+  "name": "@mafalda/supported-rtp-capabilities",
   "version": "0.0.0",
   "description": "Supported RTP capabilities extracted from Mediasoup",
   "main": "lib/supportedRtpCapabilities.js",
